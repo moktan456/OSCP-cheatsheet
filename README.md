@@ -932,6 +932,8 @@ When you have Admin creds, try winrm and rdp for shell/GUI access
 evil-winrm -i IP -u USER -p PASS
 # rdp, /d is optional
 xfreerdp /v:IP /u:USER /p:PASS /d:DOMAIN
+# rdesktop
+rdesktop -u username IP
 ```
 
 ### Enumerate certain directory and find all txt files
