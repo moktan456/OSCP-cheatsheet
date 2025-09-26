@@ -69,6 +69,8 @@ nmap -Pn -n -p ${PORT} -sC -sV -oN enum/servicevulnscan ${IP}
 # Use with proxychain, quite important in AD environment
 # Specify ports to reduce scan time
 proxychains4 -q nmap -Pn -n -sT -p PORT(S) -vv --open
+# nmapAutomator [link to Github](https://github.com/21y4d/nmapAutomator)
+nmapAutomator $IP All
 ```
 
 ### wpscan
