@@ -633,6 +633,7 @@ c. WINRM
 PE techniques let you get root/administrator access to the system
 ### Local Enumeration Tool
 [Linpeas, Winpeas](https://github.com/carlospolop/PEASS-ng/tree/master) for informative system enumeration
+[Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration) to check security vulnerability in Linux system
 
 [pspy](https://github.com/DominicBreuker/pspy) for linux process monitoring
 
