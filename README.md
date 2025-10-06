@@ -1231,6 +1231,8 @@ zsh: suspended  nc -lvp 13337
 reset: unknown terminal type unknown
 Terminal type? screen
 USER@ubuntu:~$ export TERM=xterm
+OR
+USER@ubuntu:~$ export TERM=xterm-256color
 ```
 For windows, use this [tool](https://github.com/antonioCoco/ConPtyShell)
 
